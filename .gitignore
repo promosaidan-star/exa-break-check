@@ -1,0 +1,18 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# runtime and local-only
+cache/
+.pytest_cache/
+_backup_1303/
+.claude/
+~$*
+*.png
+research/
+prep/
+
+# planning notes, kept local
+design/
+skills-lock.json
